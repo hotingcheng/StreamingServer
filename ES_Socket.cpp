@@ -1,0 +1,27 @@
+// ES_Socket.cpp: implementation of the ES_Socket class.
+//
+//////////////////////////////////////////////////////////////////////
+
+#include "stdafx.h"
+#include "Netprobe1.h"
+#include "ES_Socket.h"
+
+#ifdef _DEBUG
+#undef THIS_FILE
+static char THIS_FILE[]=__FILE__;
+#define new DEBUG_NEW
+#endif
+
+//////////////////////////////////////////////////////////////////////
+// Construction/Destruction
+//////////////////////////////////////////////////////////////////////
+
+ES_Socket::ES_Socket()
+{
+
+}
+
+ES_Socket::~ES_Socket()
+{
+
+}
